@@ -1,0 +1,26 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1, h2 {
+    font-family: 'Milonga', 'Trebuchet MS', 'Helvetica', 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: #006400;
+}
+
+h2 {
+    font-size: 20px;
+    color: #228b22;
+}
+
+li, p {
+    font-size: 16px;
+}
