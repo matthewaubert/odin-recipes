@@ -1,5 +1,7 @@
 body {
-    font-family: 'Helvetica', 'Arial', sans-serif
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    width: 500px;
+    margin: auto;
 }
 
 img {
@@ -19,8 +21,24 @@ h1 {
 h2 {
     font-size: 20px;
     color: #228b22;
+    margin-top: 30px;
 }
 
 li, p {
     font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.pages {
+    background-color: rgb(237, 237, 237);
+    border: solid 1px darkgray;
+    margin: 10px 0;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    color: #006400;
 }
